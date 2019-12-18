@@ -1,7 +1,7 @@
 package guru.springframework.model;
 
 public class PetType {
-	
+	/** added name **/
 	private String name;
 
 	public String getName() {
